@@ -2,18 +2,6 @@
 
 Este projeto utiliza Docker para criar um ambiente de desenvolvimento com PHP e Nginx.
 
-## Estrutura do Projeto
-
-```plaintext
-/projeto
-├── /nginx
-│   ├── Dockerfile.nginx
-│   └── nginx.conf
-├── Dockerfile.php-fpm
-├── docker-compose.yml
-└── index.php (e outros arquivos/folders do seu projeto)
-```
-
 ## Pré-requisitos
 
 - Docker (https://www.docker.com/get-started)
@@ -23,7 +11,7 @@ Este projeto utiliza Docker para criar um ambiente de desenvolvimento com PHP e 
 
 1. Clonar o repositório:
 ```
-git clone [URL_DO_SEU_REPOSITORIO] projeto
+git clone https://github.com/rodrigogolfeto/agilita.git projeto
 cd projeto
 ```
 
