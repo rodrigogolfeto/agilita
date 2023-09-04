@@ -21,11 +21,11 @@ docker-compose build
 docker-compose up -d
 ```
 
-3. Acesse o projeto em seu navegador através da URL http://localhost:8080.
+3. Acesse o projeto em seu navegador através da URL http://localhost:8080
 
 ## Parar o projeto
 
 Para parar os contêineres:
+```
 docker-compose down
-
-Nota: Não se esqueça de substituir [URL_DO_SEU_REPOSITORIO] pela URL do seu repositório real.
+```
