@@ -18,11 +18,12 @@ cd projeto
 
 2. Construir e iniciar os contêineres:
 ```
+docker-compose down
 docker-compose build
 docker-compose up -d
 ```
 
-3. Construir e iniciar os contêineres:
+3. Instalar as dependências do projeto:
 ```
 docker-compose exec php composer install
 ```
