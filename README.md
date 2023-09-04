@@ -1,4 +1,4 @@
-# Meu Projeto com Docker, PHP e Nginx
+# Agilita
 
 Este projeto utiliza Docker para criar um ambiente de desenvolvimento com PHP e Nginx.
 
@@ -6,6 +6,7 @@ Este projeto utiliza Docker para criar um ambiente de desenvolvimento com PHP e 
 
 - Docker (https://www.docker.com/get-started)
 - Docker Compose (https://docs.docker.com/compose/install/)
+- Composer (https://getcomposer.org/download/)
 
 ## Como iniciar
 
@@ -21,7 +22,12 @@ docker-compose build
 docker-compose up -d
 ```
 
-3. Acesse o projeto em seu navegador através da URL http://localhost:8080
+3. Construir e iniciar os contêineres:
+```
+docker-compose exec php composer install
+```
+
+4. Acesse o projeto em seu navegador através da URL http://localhost:8080
 
 ## Parar o projeto
 
