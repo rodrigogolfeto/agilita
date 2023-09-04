@@ -13,9 +13,11 @@ $mpdfConfig = [
     ],
   ],
   'default_font' => 'poppins', // Defina 'poppins' como a fonte padrão
+  'format' => 'A4-L'
 ];
 
 $mpdf = new \Mpdf\Mpdf($mpdfConfig);
+
 
 $mpdf->SetTitle('Agilitá | Relatório Site');
 $mpdf->WriteHTML(file_get_contents(__DIR__ . '/css/styles.css'), \Mpdf\HTMLParserMode::HEADER_CSS);
@@ -99,17 +101,17 @@ $mpdf->WriteHTML('
         <tr class="b-0">
           <td class="text-left b-0">
             <b>01/04/2023</b><br><br>
-            <img src="' . __DIR__ . '/images/thumbnail-1.png" class="mb-20" width="320px" />
+            <img src="' . __DIR__ . '/images/thumbnail-1.png" class="mb-20" width="200px" />
           </td>
           <td class="text-left b-0">
             <b>02/04/2023</b><br><br>
-            <img src="' . __DIR__ . '/images/thumbnail-2.png" class="mb-20" width="320px" />
+            <img src="' . __DIR__ . '/images/thumbnail-2.png" class="mb-20" width="200px" />
           </td>
         </tr>
         <tr class="b-0">
           <td class="text-left b-0">
             <b>03/04/2023</b><br><br>
-            <img src="' . __DIR__ . '/images/thumbnail-3.png" class="mb-20" width="320px" />
+            <img src="' . __DIR__ . '/images/thumbnail-3.png" class="mb-20" width="200px" />
           </td>
           <td class="text-left b-0"></td>
         </tr>
@@ -166,21 +168,36 @@ $mpdf->WriteHTML('
         <tr class="b-0">
           <td class="text-left b-0">
             <b>01/04/2023</b><br><br>
-            <img src="' . __DIR__ . '/images/thumbnail-1.png" class="mb-20" width="320px" />
+            <img src="' . __DIR__ . '/images/thumbnail-1.png" class="mb-20" width="200px" />
           </td>
           <td class="text-left b-0">
             <b>02/04/2023</b><br><br>
-            <img src="' . __DIR__ . '/images/thumbnail-2.png" class="mb-20" width="320px" />
+            <img src="' . __DIR__ . '/images/thumbnail-2.png" class="mb-20" width="200px" />
+          </td>
+          <td class="text-left b-0">
+            <b>02/04/2023</b><br><br>
+            <img src="' . __DIR__ . '/images/thumbnail-2.png" class="mb-20" width="200px" />
+          </td>
+          <td class="text-left b-0">
+            <b>02/04/2023</b><br><br>
+            <img src="' . __DIR__ . '/images/thumbnail-2.png" class="mb-20" width="200px" />
           </td>
         </tr>
         <tr class="b-0">
           <td class="text-left b-0">
             <b>03/04/2023</b><br><br>
-            <img src="' . __DIR__ . '/images/thumbnail-3.png" class="mb-20" width="320px" />
+            <img src="' . __DIR__ . '/images/thumbnail-3.png" class="mb-20" width="200px" />
           </td>
           <td class="text-left b-0">
             <b>04/04/2023</b><br><br>
-            <img src="' . __DIR__ . '/images/thumbnail-3.png" class="mb-20" width="320px" />
+            <img src="' . __DIR__ . '/images/thumbnail-3.png" class="mb-20" width="200px" />
+          </td>
+          <td class="text-left b-0">
+            <b>04/04/2023</b><br><br>
+            <img src="' . __DIR__ . '/images/thumbnail-3.png" class="mb-20" width="200px" />
+          </td>
+          <td class="text-left b-0">
+           
           </td>
         </tr>
       </table>
