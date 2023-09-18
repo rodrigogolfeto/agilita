@@ -58,424 +58,62 @@ $mpdf->WriteHTML('
         <h2 class="text-left font-18 color-AFCB07">Relatório Site: Dengue - Abril</h2>
 
         <div class="table-container w-1025 font-10">
-          <div class="table-left">
-            
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-          </div>
-
-          <div class="table-right">
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-            <div class="table-container mb-10">
-              <div class="table-internal-left">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Dia 01/04/2023 (Sábado) - Previsão em Mapa</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Emissora</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>MSSite 1ª Edição</td>
-                  </tr>
-                  <tr>
-                    <td>Site MORENA</td>
-                    <td>Caldeirão</td>
-                  </tr>
-                </table>
-              </div>
-              <div class="table-internal-right">
-                <table class="font-12" style="width:100%;">
-                  <tr>
-                    <td colspan="2" class="text-left b-0 font-weight-bold">Veiculado</td>
-                  </tr>
-                  <tr>
-                    <td class="bg-f1f1f1 font-weight-bold">Programa</td>
-                    <td class="bg-f1f1f1 font-weight-bold">Horário</td>
-                  </tr>
-                  <tr>
-                    <td>MSSite 1ª Edição</td>
-                    <td>11:18</td>
-                  </tr>
-                  <tr>
-                    <td>Caldeirão</td>
-                    <td>14:59</td>
-                  </tr>
-                </table>
-              </div>
-            </div>
-
-          </div>
+          <table class="font-12" style="width:100%;">
+            <tr>
+              <td class="text-left b-0 font-weight-bold">SITE INVESTIGA MS – PI: 515 / 2023 – Banner Animado – Super Banner Régua – 990x90 px</td>
+            </tr>
+          </table>
+          <table class="font-12 mb-10" style="width:100%;">
+            <tr>
+              <td class="bg-f1f1f1 font-weight-bold">Site</td>
+              <td class="bg-f1f1f1 font-weight-bold">01</td>
+              <td class="bg-f1f1f1 font-weight-bold">01</td>
+              <td class="bg-f1f1f1 font-weight-bold">01</td>
+              <td class="bg-f1f1f1 font-weight-bold">01</td>
+              <td class="bg-f1f1f1 font-weight-bold">01</td>
+              <td class="bg-f1f1f1 font-weight-bold">Total</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td class="bg-f5f5dc color-47A100 font-weight-bold">06</td>
+              <td class="bg-f5f5dc color-47A100 font-weight-bold">06</td>
+              <td class="bg-f5f5dc color-47A100 font-weight-bold">06</td>
+              <td class="bg-f5f5dc color-47A100 font-weight-bold">06</td>
+              <td class="bg-f5f5dc color-47A100 font-weight-bold">06</td>
+              <td class="bg-f5f5dc color-47A100 font-weight-bold">06</td>
+            </tr>
+          </table>
         </div>    
+
+
+        <h2 class="text-left font-18 color-AFCB07">Anexos</h2>
+
+        <div class="table-container w-1025 font-10">
+          <table class="font-12 mb-10 b-0" style="width:100%;">
+            <tr class="">
+              <td class="font-weight-bold b-0 text-left">
+                <div class="font-12 mb-10">01/04/2023</div>
+                <div>&nbsp;</div>
+                <div><img src="' . __DIR__ . '/images/thumbnail-1.png" /></div>
+              </td>
+              <td class="font-weight-bold b-0 text-left">
+                <div class="font-12 mb-10">01/04/2023</div>
+                <div>&nbsp;</div>
+                <div><img src="' . __DIR__ . '/images/thumbnail-1.png" /></div>
+              </td>
+              <td class="font-weight-bold b-0 text-left">
+                <div class="font-12 mb-10">01/04/2023</div>
+                <div>&nbsp;</div>
+                <div><img src="' . __DIR__ . '/images/thumbnail-1.png" /></div>
+              </td>
+              <td class="font-weight-bold b-0 text-left">
+                <div class="font-12 mb-10">01/04/2023</div>
+                <div>&nbsp;</div>
+                <div><img src="' . __DIR__ . '/images/thumbnail-1.png" /></div>
+              </td>
+            </tr>
+          </table>
+        </div>   
         
       </div>
     </div>
@@ -484,4 +122,4 @@ $mpdf->WriteHTML('
 ################################################################################
 }
 
-$mpdf->Output('temporeal-checking-de-midia-relatorio-Site.pdf', 'I');
+$mpdf->Output('temporeal-checking-de-midia-relatorio-Rádio.pdf', 'I');

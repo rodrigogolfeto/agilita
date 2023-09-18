@@ -53,6 +53,7 @@ td, th { border: 1px solid #F1F1F1;text-align: center;padding: 4px; }
 .color-80BC25 { color:#80BC25; }
 .color-AFCB07 { color:#AFCB07; }
 .color-0471A8 { color:#0471A8; }
+.color-47A100 { color:#47A100; }
 
 .w-400 { width: 400px; }
 .w-1025 { width: 1025px; }
@@ -76,6 +77,7 @@ td, th { border: 1px solid #F1F1F1;text-align: center;padding: 4px; }
 
 .bg-f1f1f1 { background:#f1f1f1; }
 .bg-d9edf7 { background:#d9edf7; }
+.bg-f5f5dc { background:#f5f5dc; }
 
 .space-height-8 { font-size:8px;color:white; }
 .space-height-16 { font-size:16px;color:white; }
